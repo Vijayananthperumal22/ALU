@@ -125,5 +125,6 @@ endcase
 end module
 ```
 # OUTPUT
-![image](https://github.com/Vijayananthperumal22/ALU/assets/107705127/b66a9aab-6347-456c-a186-e91bd4558301)
+![image](https://github.com/Vijayananthperumal22/ALU/assets/107705127/2be0a1a5-d035-483c-ac22-8953d9f2dd99)
+
 
